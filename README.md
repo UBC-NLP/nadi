@@ -17,10 +17,12 @@ A total of 61 teams from 25 countries registered to participate in the tasks, th
 
 ## cite NADI 2020 
 ```
-@article{abdul2020nadi,
-  title={NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task},
+
+@inproceedings{mageed:2020:nadi,
+  title={{NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task}},
   author={Abdul-Mageed, Muhammad and Zhang, Chiyu and Bouamor, Houda and Habash, Nizar},
-  booktitle ={Proceedings of the Fifth Arabic Natural Language Processing Workshop},
+  booktitle={Proceedings of the Fifth Arabic Natural Language Processing Workshop},
+  pages={97--110},
   year={2020}
 }
 
@@ -50,11 +52,11 @@ Similar to Subtask 1 but focusing on the
 
 ## cite NADI 2021
 ```
-@article{abdul2021nadi,
-  title={NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task},
-  author={Abdul-Mageed, Muhammad and Zhang, Chiyu and Elmadany, AbdelRahim and Bouamor, Houda and Habash, Nizar},
-  booktitle ={Proceedings of the Sixth Arabic Natural Language Processing Workshop},
-  year={2020}
+@inproceedings{mageed:2021:nadi,
+    author = {Abdul-Mageed, Muhammad and Zhang, Chiyu and Elmadany, AbdelRahim and Bouamor, Houda and Habash, Nizar}, 
+    title = {{NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task}},
+    booktitle ={Proceedings of the Sixth {A}rabic Natural Language Processing Workshop (WANLP 2021)},
+    year = {2021},
 }
 
 ```
