@@ -1,7 +1,7 @@
 
-# Nuanced Arabic Dialect Identification Shared Task Series
+# Nuanced Arabic Dialect Identification Shared Task Series (NADI)
 
-This repository lists information relevant to the Nuanced Arabic Dialect Identification Shared Task Series.
+This repository lists information relevant to the Nuanced Arabic Dialect Identification Shared Task Series (NADI).
 
 <hr> 
 
