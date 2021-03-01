@@ -15,7 +15,7 @@ A total of 61 teams from 25 countries registered to participate in the tasks, th
 - **(2) Subtask 2** Province-level dialect identification. A total of 21,000 tweets, covering 100 provinces from all 21 Arab countries. This is the same dataset as in Subtask 1, but with province labels.
 [CODALAB link](https://competitions.codalab.org/competitions/24002?secret_key=53f14ab8-7db2-4011-9418-c95ee3b7ea2c)
 
-## cite NADI 2020 
+## Please cite NADI 2020 as follows:
 ```
 
 @inproceedings{mageed:2020:nadi,
@@ -50,7 +50,7 @@ Similar to Subtask 1 but focusing on the
 - **Subtask 2.2:** Province-level DA identification: A total of 21,000 tweets, covering 100 provinces. [CODALAB link](https://competitions.codalab.org/competitions/27771)
 
 
-## cite NADI 2021
+## Please cite NADI 2021 as follows:
 ```
 @inproceedings{mageed:2021:nadi,
     author = {Abdul-Mageed, Muhammad and Zhang, Chiyu and Elmadany, AbdelRahim and Bouamor, Houda and Habash, Nizar}, 
