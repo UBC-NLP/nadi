@@ -10,9 +10,9 @@ A total of 61 teams from 25 countries registered to participate in the tasks, th
 [https://sites.google.com/view/nadi-shared-task](https://sites.google.com/view/nadi-shared-task)
 
 ## Sub-tasks
-**(1) Subtask 1** Country-level dialect identification: A total of 21,000 tweets, covering all 21 Arab countries. This is a new dataset created for this shared task.
+- **Subtask 1** Country-level dialect identification: A total of 21,000 tweets, covering all 21 Arab countries. This is a new dataset created for this shared task.
 [CODALAB link](https://competitions.codalab.org/competitions/24001?secret_key=66d8a9d9-3ac9-4ef2-bb74-6b8f3e287468)
-**(2) Subtask 2** Province-level dialect identification. A total of 21,000 tweets, covering 100 provinces from all 21 Arab countries. This is the same dataset as in Subtask 1, but with province labels.
+- **(2) Subtask 2** Province-level dialect identification. A total of 21,000 tweets, covering 100 provinces from all 21 Arab countries. This is the same dataset as in Subtask 1, but with province labels.
 [CODALAB link](https://competitions.codalab.org/competitions/24002?secret_key=53f14ab8-7db2-4011-9418-c95ee3b7ea2c)
 
 ## cite NADI 2020 
