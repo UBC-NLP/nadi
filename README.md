@@ -24,6 +24,9 @@ A total of 61 teams from 25 countries registered to participate in the tasks, th
 
 ```
 <hr> 
+ 
+![NADI2021](NADI2021.png)
+
 # NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task
 We present the findings and results of the Second Nuanced Arabic Dialect Identification Shared Task (NADI 2021). 
 This Shared Task includes four subtasks: country-level Modern Standard Arabic (MSA) identification (Subtask 1.1), country-level dialect identification (Subtask 1.2), province-level MSA identification (Subtask 2.1), and province-level sub-dialect identification (Subtask 2.2). The data for the shared task covers a total of 100 provinces from 21 Arab countries and are collected from the Twitter domain.  A total of 53 teams from 23 countries registered to participate in the tasks, thus reflecting the interest of the community in this area. We received 16 submissions for Subtask 1.1 from five teams, 27 submissions for Subtask 1.2 from eight teams, 12 submissions for Subtask 2.1 from four teams, and 13 Submissions for subtask 2.2 from four teams.
