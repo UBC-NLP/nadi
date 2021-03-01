@@ -1,4 +1,10 @@
 
+# Nuanced Arabic Dialect Identification Shared Task Series
+
+This repository lists information relevant to the Nuanced Arabic Dialect Identification Shared Task Series.
+
+<hr> 
+
 # NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task
 ![NADI2021](NADI2020.png)
 We present the results and findings of the First Nuanced Arabic Dialect Identification Shared Task (NADI). 
