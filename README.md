@@ -15,6 +15,9 @@ A total of 61 teams from 25 countries registered to participate in the tasks, th
 ## Offical website
 #### Access the offical website via [this](https://sites.google.com/view/nadi-shared-task) link.
 
+## Download the data
+To download the data you need to fill the registration form. [link](https://docs.google.com/forms/d/e/1FAIpQLSdsbQI5YCOknBGkPalogdhuh4A-bajSLGO6MZivXMQAkqMjIQ/viewform?usp=sf_link)
+
 ## Sub-tasks
 - **Subtask 1** Country-level dialect identification: A total of 21,000 tweets, covering all 21 Arab countries. This is a new dataset created for this shared task.
 [CODALAB link](https://competitions.codalab.org/competitions/24001?secret_key=66d8a9d9-3ac9-4ef2-bb74-6b8f3e287468)
@@ -44,6 +47,9 @@ This Shared Task includes four subtasks: country-level Modern Standard Arabic (M
 
 ## Offical website
 #### Access the offical website via [this](https://sites.google.com/view/second-nadi-shared-task) link.
+
+## Download the data
+To download the data you need to fill the registration form. [link](https://docs.google.com/forms/d/e/1FAIpQLScMqe_ZtynXazw1cX0elG-Au6GCq3zSbYV_Y5JfNATUi3ww5A/viewform?usp=sf_link)
 
 ## Sub-tasks
 **(1) Subtask 1 (Country Level)**
