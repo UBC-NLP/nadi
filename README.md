@@ -24,7 +24,6 @@ To download the data you need to fill the registration form. [link](https://docs
 - **Subtask 1.2:** Country-level DA identification: A total of 21,000 tweets, covering 21 Arab countries. [CODALAB link](https://competitions.codalab.org/competitions/27769)
 
 **(2) Subtask 2 (Province level)**
-Similar to Subtask 1 but focusing on the 
 - **Subtask 2.1:** Province-level MSA identification: A total of 21,000 tweets, covering 100 provinces. [CODALAB link](https://competitions.codalab.org/competitions/27770)
 - **Subtask 2.2:** Province-level DA identification: A total of 21,000 tweets, covering 100 provinces. [CODALAB link](https://competitions.codalab.org/competitions/27771)
 
