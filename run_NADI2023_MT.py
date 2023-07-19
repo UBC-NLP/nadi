@@ -243,7 +243,7 @@ class DataTrainingArguments:
 
         # accepting both json and jsonl file extensions, as
         # many jsonlines files actually have a .json extension
-        valid_extensions = ["json", "jsonl"]
+        valid_extensions = ["tsv","json", "jsonl"]
 
         if self.train_file is not None:
             extension = self.train_file.split(".")[-1]
@@ -357,12 +357,16 @@ def main():
         if data_args.test_file is not None:
             data_files["test"] = data_args.test_file
             extension = data_args.test_file.split(".")[-1]
-        raw_datasets = load_dataset(
-            extension,
-            data_files=data_files,
-            cache_dir=model_args.cache_dir,
-            use_auth_token=True if model_args.use_auth_token else None,
-        )
+        if data_args.train_file.endswith(".csv"):
+            # Loading a dataset from local csv files
+            raw_datasets = load_dataset("csv", data_files=data_files, cache_dir=model_args.cache_dir)
+        elif data_args.train_file.endswith(".tsv"):
+            # Loading a dataset from local csv files
+            raw_datasets = load_dataset("csv", delimiter="\t", data_files=data_files, cache_dir=model_args.cache_dir)
+        else:
+            # Loading a dataset from local json files
+            raw_datasets = load_dataset("json", data_files=data_files, cache_dir=model_args.cache_dir)
+       
     # See more about loading any type of standard or custom dataset (from files, python dict, pandas DataFrame, etc) at
     # https://huggingface.co/docs/datasets/loading_datasets.html.
 
