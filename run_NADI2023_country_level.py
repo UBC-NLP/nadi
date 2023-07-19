@@ -350,7 +350,7 @@ def main():
         )
         result = tokenizer(*args, padding=padding, max_length=max_seq_length, truncation=True)
         if not is_regression:
-            result["label"] = [label2id[l] for l in examples["label"]
+            result["label"] = [label2id[l] for l in examples["label"]]
         return result
 
     with training_args.main_process_first(desc="dataset map pre-processing"):
